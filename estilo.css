@@ -142,7 +142,7 @@ video{
 	margin:1%;
 	color:#333;
 	background:black;
-	box-shadow:0 0 5px rgba(0,0,0,.1);
+	box-shadow:0 0 5px rgba(255,255,255,.1);
 }
 
 .item:hover{
@@ -208,7 +208,7 @@ footer hr{
 	.item{
 		width:48%;
 		margin:1%;
-		background:#161516;
+		background:#FFFFFF;
 		color:#333;
 	}
 
