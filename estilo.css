@@ -81,13 +81,13 @@ video{
 	}
 
 .dupla a{
-	color:rgba(39,38,38,0.75);
+	color:rgba(255,255,255,0.75);
 	text-decoration:none;
 	font-weight:700;
 }
 
 .dupla a:hover{
-	color:rgba(39,38,38,1);
+	color:rgba(255,255,255,1);
 	text-decoration:underline;
 }
 
@@ -111,7 +111,7 @@ video{
 .segunda{
 	min-height:300px;
 	text-align:right;
-	background-color:rgba(231,240,239,1);
+	background-color:rgba(39,38,38,1);
 	background-image:url('media/dupla-02.jpg');
 	background-position:top left;
 	background-repeat:no-repeat;
