@@ -6,7 +6,7 @@
 body{
 	background:rgba(31,31,31,1);
 	color:rgba(25,25,25,1);
-	font-family: 'Poppins', sans-serif;
+	font-family: 'Muli', sans-serif;
 	font-weight:300;
 }
 
@@ -69,7 +69,7 @@ video{
 
 #somos{
 	width:100%;
-	background:rgb(250,250,250);
+	background:rgb(39,38,38);
 	margin-bottom:2%;
 	}
 
@@ -87,7 +87,7 @@ video{
 }
 
 .dupla a:hover{
-	color:rgba(255,0,0,1);
+	color:rgba(39,38,38,1);
 	text-decoration:underline;
 }
 
